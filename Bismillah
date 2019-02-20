@@ -1,7 +1,7 @@
 class Bismillah
 {
-public Static void Main( String args[])
+public static void main( String args[])
 {
-System.out.Println("Alhamdulillah, Build Success"
+System.out.println("Alhamdulillah, Build Success");
 }
 }

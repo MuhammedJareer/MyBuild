@@ -1,0 +1,7 @@
+class Bismillah
+{
+public Static void Main( String args[])
+{
+System.out.Println("Alhamdulillah, Build Success"
+}
+}
